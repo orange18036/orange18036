@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 <img src="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/orange.png" width="300" />
+<script src="https://cyberdefenders.org/p/orange/badge"></script>
