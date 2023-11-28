@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<img src="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/orange.png" width="300" />
-<script src="https://cyberdefenders.org/p/orange/badge"></script>
+![Badge](https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/orange.png)
+
