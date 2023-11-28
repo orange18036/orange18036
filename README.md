@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ![Badge](https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/orange.png)
-
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/orange.png"><img src="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/orange.png" width="130" height="30" data-canonical-src="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/orange.png" style="max-width: 100%;"></a>
+ <a>
+    <img src="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/rgsaura.png" width="130" height="30"/> 
+  </a>
