@@ -17,4 +17,8 @@ Here are some ideas to get you started:
  <a>
     <img src="https://orangedemo.s3.eu-west-2.amazonaws.com/profile-badges/domain.png" width="100" height="auto"/> 
   </a>
+
+   <a>
+    <img src="https://images.credly.com/size/680x680/images/e63aa507-b974-4e67-bae6-1e425f6e2a99/image.png" alt="CPTS"  height="45"/>
+  </a>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
