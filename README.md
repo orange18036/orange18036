@@ -17,8 +17,6 @@ Here are some ideas to get you started:
   <a>
     <img src="https://www.hackthebox.eu/badge/image/1542359" width="130" height="30">
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
    <a>
     <img src="https://orangedemo.s3.eu-west-2.amazonaws.com/profile-badges/domain.png" alt="CPTS"  height="45"/>
