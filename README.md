@@ -15,6 +15,6 @@ Here are some ideas to get you started:
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
  <a>
-    <img src="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/rgsaura.png" width="100" height="auto"/> 
+    <img src="https://orangedemo.s3.eu-west-2.amazonaws.com/profile-badges/domain.png" width="100" height="auto"/> 
   </a>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
