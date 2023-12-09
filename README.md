@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a>
-    <img src="https://www.hackthebox.eu/badge/image/1542359"width="130" height="30">
+    <img src="https://www.hackthebox.eu/badge/image/1542359" width="130" height="30">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
