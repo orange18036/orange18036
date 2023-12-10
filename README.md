@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   </a>
 
    <a>
-    <img src="https://orangedemo.s3.eu-west-2.amazonaws.com/profile-badges/orange.png?t=1702164121358"  height="45"/>
+    <img src="https://orangedemo.s3.eu-west-2.amazonaws.com/profile-badges/orange.png?t=1702164121358"  height="30"/>
   </a>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
